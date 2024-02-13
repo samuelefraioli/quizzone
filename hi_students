@@ -1,0 +1,12 @@
+Ciao raga, questo � il file dove potete lasciare un saluto o suggerimenti.
+Vi pregherei di clonare il repository e di fare delle pull requests cos� da lasciare in eredit� eventuali integrazioni/migliorie agli altri
+anzich� farlo girare in .zip su altri canali poich� poi le info diventano difficilmente reperibili.
+
+Non toccate il JSON se non siete sicuri/e di aver capito come funziona il python. Aggiornate SEMPRE il campo JSON "fatte" dopo aver aggiunto
+delle domande. Per far partire in locale lo script basta avere python e scaricare flask (pip install flask da riga di comando).
+
+Per far partire l'app: python sistemi_biometrici.py (nella cartella dove � il file).
+Poi navigate con il browser localhost:999.
+
+P.S. Esiste anche il repo per le domande di complementi di biometria. E' identico come progetto ma con un JSON diverso.
+P.P.S. Lasciate un saluto a chi legger� questo file dopo di voi :)

@@ -1,0 +1,22 @@
+{
+  "1": {
+    "domanda": "Queste è la prima domanda?",
+    "risposte": [
+      "Si",
+      "No"
+    ],
+    "giusta": "Si"
+  },
+  "2": {
+    "domanda": "Questa è un'altra domanda?",
+    "risposte": [
+      "Sei simpatico",
+      "Si",
+      "No"
+    ],
+    "giusta": "Sei simpatico"
+  },
+  "totali": 2,
+  "fatte": []
+
+}
